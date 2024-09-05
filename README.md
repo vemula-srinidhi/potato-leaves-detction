@@ -1,0 +1,2 @@
+# potato-leaves-detction
+Developedanapplicationtodetecthealthyanddiseasedpotatoleaves  usingCNNarchitecture.Suggestedappropriatefertilizersifadisease  isdetected.BuiltusingFlask,deeplearningtechniques,andPython.
